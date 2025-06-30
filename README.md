@@ -1,4 +1,4 @@
-# RAG 기반 금융 투자 용어 챗봇 프로젝트 진행 현황 (Streamlit GUI)
+# RAG 기반 금융 투자 용어 챗봇 프로젝트 진행 현황 
 
 ![image](https://github.com/user-attachments/assets/9885b932-41d0-44b9-aaf5-0c239340c16f)
 
