@@ -1,0 +1,48 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.env.*
+venv/
+env/
+ENV/
+.venv/
+.ipynb_checkpoints
+
+# Streamlit 관련
+.streamlit/
+
+# 가상환경 관련
+venv/
+ENV/
+env.bak/
+venv.bak/
+rag_bot/
+rag310/
+
+# IDE 및 에디터 관련
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 로그 파일
+*.log
+
+# 데이터베이스, 캐시
+*.sqlite3
+*.db
+*.sqlite
+*.cache/
+.cache/
+
+# 기타 불필요 파일
+.DS_Store
+Thumbs.db
+
+# chroma_store (벡터 DB 폴더)
+chroma_store/
